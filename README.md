@@ -9,3 +9,5 @@ add text throu VC
 add text at new branch
 
 we try decide a conflict situation
+
+conflict is go out
